@@ -1,0 +1,1 @@
+[![Latest blog post workflow](https://github.com/ANDREI12333/Andrei12333/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/ANDREI12333/Andrei12333/actions/workflows/blog-post-workflow.yml)
