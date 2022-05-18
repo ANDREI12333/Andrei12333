@@ -32,7 +32,7 @@
 <a href="https://codepen.io/andrei12333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="andrei12333" height="30" width="40" /></a>
 <a href="https://dev.to/andrei12333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andrei12333" height="30" width="40" /></a>
 <a href="https://twitter.com/andrei1233live" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrei1233live" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc_nspgjxnb240banzqttwpq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc_nspgjxnb240banzqttwpq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ANDREI12333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ANDREI1233" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
