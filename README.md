@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/andrei1233live" target="blank"><img src="https://img.shields.io/twitter/follow/andrei1233live?logo=twitter&style=for-the-badge" alt="andrei1233live" /></a> </p>
 
-- 🔭 I’m currently working on [DDCord](https://github.com/DDCord)
+- 🔭 I’m currently working on [DDCord](https://github.com/DDCordApp)
 
 - 🌱 I’m currently learning **React, Javascript**
 
