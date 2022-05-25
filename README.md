@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft?](https://dev.to/andrei12333/minecraft-55c3)
 - [Hello!](https://dev.to/andrei12333/hello-eci)
 <!-- BLOG-POST-LIST:END -->
 
