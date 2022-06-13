@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hosting your projects, WITHOUT PAYING A PENNY!](https://dev.to/andrei12333/hosting-your-projects-without-paying-a-penny-25f2)
 - [Hello!](https://dev.to/mcpeplay/hello-m4o)
 - [Making your own programming language.](https://dev.to/andrei12333/making-your-own-programming-language-1o6m)
 - [Hello!](https://dev.to/andrei12333/hello-eci)
